@@ -322,24 +322,29 @@ ul.rig li {
 				}				
 			
 			.item-img {
-				z-index:0;			
+				z-index:0;
+				background-size: cover;			
 			}
 			
 			.yamaha {
 				background:url(../images/preview/yamaha-thumb.jpg);
 				
+				
 			}
 			
 			.factory {
 				background:url(../images/preview/factory-thumb.jpg);
+				background-size: cover;
 			}
 			
 			.shaft {
 				background:url(../images/preview/shaft-thumb.jpg);
+				
 			}
 			
 			.tania {
 				background:url(../images/preview/tania-thumb.jpg);
+				
 			}
 			
 			.mtravel {

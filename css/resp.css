@@ -1,0 +1,144 @@
+
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 568px) {
+	
+	.main-logo {
+		top: 60%;
+	}
+	
+	.fp-controlArrow {
+		top : 90%;
+	}
+	
+	.menu-wm {
+		background: #ff6e22;
+		position: absolute;
+		top: 114px;
+	}
+	
+	header .menu-wm ul {
+		padding: 20px;
+	}
+	
+	header .menu-wm li {
+		text-align: center;
+		display: list-item;
+	}
+	
+	header .contact-wm a {
+		background-position: 20px 0;
+		width: 82px;
+	}
+	
+	ul.rig li {
+	width: 100%;
+	}
+	
+	.skills-bar {
+    width: 100%;
+	}
+	
+	.skills-quote h2 { 
+	font-size: 12px;
+	}
+	
+	.txt-bar h2 {
+	font-size: 35px;
+	}
+	
+	.quote-orange, .btn-download, .txt-resume {
+	width: 100%;
+	}
+	
+	.quote-orange h2 {
+		left: 2%;
+		right: auto !important;
+	}
+	
+	.category-one, .category-two {
+		width: 100%;
+		height: 100px;
+	}
+	
+	.contact-col {
+		width: 100%;
+	}
+	
+	.quote-form, .info-form {
+		height: 60px;
+	}
+	
+	.info-form h2 {
+		font-size: 1.2em;
+	}
+	
+	.txt-form textarea {
+		height: 100px;
+	}
+}
+
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : portrait) {
+	
+	.menu-wm {
+		background: #ff6e22;
+		position: absolute;
+		top: 114px;
+	}
+	
+	header .menu-wm ul {
+		padding: 20px;
+	}
+	
+	header .menu-wm li {
+		text-align: center;
+		display: list-item;
+	}
+	
+	header .contact-wm a {
+		background-position: 20px 0;
+		width: 82px;
+	}
+	
+	ul.rig li {
+	width: 100%;
+	}
+	
+	.skills-bar {
+    width: 100%;
+	}
+	
+	.skills-quote h2 { 
+	font-size: 12px;
+	}
+	
+	.txt-bar h2 {
+	font-size: 35px;
+	}
+	
+	.quote-orange, .btn-download, .txt-resume {
+	width: 100%;
+	}
+	
+	.quote-orange h2 {
+		left: 2%;
+		right: auto !important;
+	}
+	
+	.category-one, .category-two {
+		width: 100%;
+		height: 100px;
+	}
+	
+	.info-form h2 {
+		font-size: 1.2em;
+	}
+	
+	.txt-form textarea {
+		height: 183px;
+	}
+
+}

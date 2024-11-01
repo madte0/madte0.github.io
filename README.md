@@ -1,1 +1,0 @@
-Portfolio, Alejandro Atehortúa.

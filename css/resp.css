@@ -12,7 +12,7 @@ and (max-device-width : 568px) {
 	}
 	
 	.menu-wm {
-		background: #ff6e22;
+		background: #31c5f4;
 		position: absolute;
 		top: 114px;
 	}
@@ -84,7 +84,7 @@ and (max-device-width : 1024px)
 and (orientation : portrait) {
 	
 	.menu-wm {
-		background: #ff6e22;
+		background: #31c5f4;
 		position: absolute;
 		top: 114px;
 	}

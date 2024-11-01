@@ -26,6 +26,11 @@ a, img {
 		text-align:center;
 }
 
+#section0 {
+		background: #31c5f4 !important;
+
+}
+
 #header {
 		position: fixed;
 		display: block;
@@ -173,7 +178,6 @@ txt-logo h1 span {
 }
 
 #footer {
-	/**float: left;**/
 	position: absolute;
 	bottom: 0;
 	background-color: #EEEEEE;
@@ -185,7 +189,7 @@ txt-logo h1 span {
 	border-right: 1px solid #d5d5d5;
 	height: 150px;
 	position: relative; 
-	width: 5%;
+	width: 30%;
 }
 
 .footer-logo img {
@@ -243,7 +247,7 @@ ul.rig li {
 			.item-img,
 			.item-info {
 				width: 100%;
-				height: 250px;	
+				height: 300px;	
 			}
 
 			.item-hover,
@@ -317,13 +321,12 @@ ul.rig li {
 				}				
 			
 			.item-img {
-				z-index:0;
-				background-size: cover;			
+				z-index:0;			
 			}
 			
 			.yamaha {
 				background:url(../images/preview/yamaha-thumb.jpg);
-				
+				background-size: cover;
 				
 			}
 			
@@ -334,52 +337,62 @@ ul.rig li {
 			
 			.shaft {
 				background:url(../images/preview/shaft-thumb.jpg);
-				
+				background-size: cover;
 			}
 			
 			.tania {
 				background:url(../images/preview/tania-thumb.jpg);
-				
+				background-size: cover;
 			}
 			
 			.mtravel {
 				background:url(../images/preview/mtravel-thumb.jpg);
+				background-size: cover;
 			}
 			
 			.pmayor {
 				background:url(../images/preview/pmayor-thumb.jpg);
+				background-size: cover;
 			}
 			
 			.bosi{
 				background:url(../images/preview/bosi-thumb.jpg);
+				background-size: cover;
 			}
 			
 			.additc {
 				background:url(../images/preview/addict-thumb.jpg);
+				background-size: cover;
 			}
 			
 			.armor {
 				background:url(../images/preview/armor-thumb.jpg);
+				background-size: cover;
 			}
 			
 			.celsia {
 				background:url(../images/preview/celsia-thumb.jpg);
+				background-size: cover;
 			}
 			
 			.proexport {
 				background:url(../images/preview/proexport-thumb.jpg);
+				background-size: cover;
 			}
 			
 			.svicente {
 				background:url(../images/preview/svicente-thumb.jpg);
+				background-size: cover;
 			}
 			
 			.art {
 				background:url(../images/preview/art-thumb.jpg);
+				background-size: cover;
 			}
 			
 			.brand {
 				background:url(../images/preview/brand-thumb.jpg);
+				background-size: cover;
 			}
 			
 			
@@ -552,7 +565,7 @@ ul.rig li {
 
 .quote-orange h2, .category-one h2, .category-two h2, .txt-resume p, .quote-form h2, .info-form h2 {
 	bottom: 5%;
-	font-size: 14px;
+	font-size: 20px;
 	font-weight: 300;
 	position: absolute;
 	right: 2%;
@@ -614,7 +627,7 @@ ul.rig li {
 
 .contact-col{
 	float: left;
-	width: 100%;
+	width: 50%;
 }
 
 .quote-form, .info-form {

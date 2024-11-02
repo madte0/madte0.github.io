@@ -247,7 +247,7 @@ ul.rig li {
 			.item-img,
 			.item-info {
 				width: 100%;
-				height: 300px;	
+				height: vh;	
 			}
 
 			.item-hover,
@@ -280,7 +280,7 @@ ul.rig li {
 					z-index:10;
 					color:#ffffff;
 					position:relative;
-					top: 30%;
+					top: 50%;
 					z-index:5;				 					
 				}
 			

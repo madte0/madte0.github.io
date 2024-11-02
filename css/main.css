@@ -247,7 +247,7 @@ ul.rig li {
 			.item-img,
 			.item-info {
 				width: 100%;
-				height: vh;	
+				height: auto;	
 			}
 
 			.item-hover,

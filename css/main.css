@@ -24,6 +24,7 @@ a, img {
 .section{
 		border: 0;
 		text-align:center;
+		background: #31c5f4 !important;
 }
 
 #section0 {
@@ -180,7 +181,7 @@ txt-logo h1 span {
 #footer {
 	position: absolute;
 	bottom: 0;
-	background-color: #EEEEEE;
+	background-color: #31c5f4;
 	height: 150px;
 	width: 100%;
 }

@@ -10,11 +10,11 @@
 	$.fn.fullpage = function(options) {
 		// Create some defaults, extending them with any options that were provided
 		options = $.extend({
-			"verticalCentered": true,
+			"verticalCentered": false,
 			'resize': true,
 			'sectionsColor' : [],
 			'anchors':[],
-			'scrollingSpeed': 700,
+			'scrollingSpeed': 1000,
 			'easing': 'easeInQuart',
 			'menu': false,
 			'navigation': false,

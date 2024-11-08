@@ -211,7 +211,7 @@ fieldset {
 
 .welcome-image-area:after {
     position: absolute;
-    background: rgba(0, 0, 0, .6);
+    /*background: rgba(0, 0, 0, .6);*/
     left: 0;
     top: 0;
     width: 100%;

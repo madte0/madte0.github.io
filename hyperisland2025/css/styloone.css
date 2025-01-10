@@ -279,6 +279,13 @@ body{
 	color: #acacac;
 }
 
+#section0 h3{
+    color: #fff;
+    font-size: 20px;
+    font-weight: lighter;
+    line-height: 40px;
+}
+
 
 /* Centered texts in each section
 * --------------------------------------- */
